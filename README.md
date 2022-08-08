@@ -21,6 +21,3 @@ I. Volume 1
    1. Periodic Signals
    2. Statistic Aspects
    3. 
-
-$E = mc^2$
-$$F(t)=\int_{-\infty}^{t}f(x)dx$$

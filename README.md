@@ -22,3 +22,5 @@ I. Volume 1
    2. Statistic Aspects
    3. 
 
+$E = mc^2$
+$$F(t)=\int_{-\infity}^{t}f(x)dx$$

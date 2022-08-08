@@ -23,4 +23,4 @@ I. Volume 1
    3. 
 
 $E = mc^2$
-$$F(t)=\int_{-\infity}^{t}f(x)dx$$
+$$F(t)=\int_{-\infty}^{t}f(x)dx$$
